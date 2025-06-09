@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "sku": "001",
+      "name": "Pepsi",
+      "price": 1.5
+    },
+    {
+      "sku": "002",
+      "name": "Harina",
+      "price": 1
+    },
+    {
+      "sku": "003",
+      "name": "Arroz",
+      "price": 0.8
+    }
+  ]
+}
